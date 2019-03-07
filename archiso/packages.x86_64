@@ -606,7 +606,7 @@ xfce4-taskmanager
 #Needed for Calamares installer
 calamares
 arcolinux-system-installation-git
-arcolinuxb-calamares-bspwm-git
+arcolinuxb-calamares-qtile-git
 ckbcomp
 networkmanager
 upower
