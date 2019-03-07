@@ -525,6 +525,7 @@ arcolinux-oblogout-themes-git
 #arcolinux-plank-themes-git
 arcolinux-polybar-git
 arcolinux-qt5-git
+arcolinux-qtile-git
 #arcolinux-qt5-plasma-git
 arcolinux-rofi-git
 arcolinux-rofi-themes-git
@@ -623,10 +624,6 @@ hwinfo
 qt5-xmlpatterns
 
 #desktop specific
-bspwm
-sxhkd
-polybar
-xdo
-xdotool
+qtile
 sutils-git
 xtitle-git
