@@ -485,7 +485,7 @@ arcolinux-applications-git
 arcolinux-arc-themes-git
 #arcolinux-awesome-git
 arcolinux-bin-git
-arcolinux-bspwm-git
+#arcolinux-bspwm-git
 #arcolinux-common-git
 #arcolinux-config-cinnamon-git
 arcolinux-config-git
@@ -511,9 +511,9 @@ arcolinux-local-git
 arcolinux-neofetch-git
 arcolinux-mirrorlist-git
 arcolinux-nitrogen-git
-#arcolinux-oblogout
+arcolinux-oblogout
 #arcolinux-oblogout-awesome
-arcolinux-oblogout-bspwm
+#arcolinux-oblogout-bspwm
 arcolinux-oblogout-themes-git
 #arcolinux-oblogout-xmonad
 #arcolinux-obmenu-generator-git
