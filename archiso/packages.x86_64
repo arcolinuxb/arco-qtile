@@ -197,11 +197,11 @@ splix
 system-config-printer
 
 #printer extra for hplip
-pyqt5-common
-python-pillow
-python-pip
-python-pyqt5
-python-reportlab
+#pyqt5-common
+#python-pillow
+#python-pip
+#python-pyqt5
+#python-reportlab
 
 #tumbler
 tumbler
@@ -277,6 +277,7 @@ ttf-ubuntu-font-family
 #icons
 arc-icon-theme
 gnome-icon-theme
+papirus-icon-theme
 
 #lightdm
 accountsservice
@@ -366,8 +367,8 @@ simple-scan
 #shotwell
 speedtest-cli
 timeshift
-the_platinum_searcher-bin
 #tlp
+tree
 ufw
 gufw
 unace
@@ -419,7 +420,6 @@ numix-circle-arc-icons-git
 numix-icon-theme-git
 numix-circle-icon-theme-git
 paper-icon-theme
-papirus-icon-theme
 sardi-icons
 surfn-icons-git
 zafiro-icon-theme
@@ -455,11 +455,12 @@ oh-my-zsh-git
 pamac-aur
 peek
 pulseaudio-equalizer-ladspa
-python-pywal
 #python-pystache
+python-pywal
 screenkey
 sublime-text-dev
 temps
+the_platinum_searcher-bin
 tmux
 trizen
 urxvt-perls
@@ -482,16 +483,19 @@ yay-bin
 #############################
 #arcolinux_repo for arcolinux
 arcolinux-applications-git
-arcolinux-arc-themes-git
+#arcolinux-arc-themes-git
+arcolinux-arc-themes-nico-git
 #arcolinux-awesome-git
 arcolinux-bin-git
 #arcolinux-bspwm-git
 #arcolinux-common-git
 #arcolinux-config-cinnamon-git
+#arcolinux-config-deepin-git
 arcolinux-config-git
 #arcolinux-config-gnome-git
 #arcolinux-config-mate-git
 #arcolinux-config-plasma-git
+#arcolinux-config-xmobar-git
 #arcolinux-config-xmonad-git
 #arcolinux-conky-collection-git
 #arcolinux-docs-git
@@ -508,8 +512,8 @@ arcolinux-lightdm-gtk-greeter
 arcolinux-lightdm-gtk-greeter-settings
 arcolinux-local-git
 #arcolinux-logo-git
-arcolinux-neofetch-git
 arcolinux-mirrorlist-git
+arcolinux-neofetch-git
 arcolinux-nitrogen-git
 arcolinux-oblogout
 #arcolinux-oblogout-awesome
@@ -525,8 +529,8 @@ arcolinux-oblogout-themes-git
 #arcolinux-plank-themes-git
 arcolinux-polybar-git
 arcolinux-qt5-git
-arcolinux-qtile-git
 #arcolinux-qt5-plasma-git
+arcolinux-qtile-git
 arcolinux-rofi-git
 arcolinux-rofi-themes-git
 arcolinux-root-git
@@ -540,7 +544,8 @@ arcolinux-variety-git
 arcolinux-wallpapers-git
 #arcolinux-xfce4-panel-profiles-git
 arcolinux-xfce-thunar-git
-#arcolinux-xmonad-git
+#arcolinux-xmonad-polybar-git
+#arcolinux-xmonad-xmobar-git
 
 #xfce4 also for ArcoLinuxB iso builds
 #xfce4 group content
