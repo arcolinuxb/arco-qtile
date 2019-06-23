@@ -622,3 +622,4 @@ qt5-xmlpatterns
 
 #desktop specific
 qtile
+python-psutil
