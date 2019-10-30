@@ -523,7 +523,7 @@ arcolinux-bin-git
 arcolinux-config-qtile
 #arcolinux-config-xfce-git
 #arcolinux-config-xmonad-git
-#arcolinux-conky-collection-git
+arcolinux-conky-collection-git
 #arcolinux-deepin-git
 #arcolinux-docs-git
 #arcolinux-faces-git
