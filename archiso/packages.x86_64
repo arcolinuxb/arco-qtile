@@ -788,10 +788,8 @@ xfce4-taskmanager
 #                                ISO SPECIFIC
 ###########################################################################
 
-#polybar
-#polybar
-
 #desktop specific qtile
 qtile
 python-psutil
 betterlockscreen
+xcb-util-cursor
