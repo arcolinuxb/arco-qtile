@@ -791,5 +791,4 @@ xfce4-taskmanager
 #desktop specific qtile
 qtile
 python-psutil
-betterlockscreen
 xcb-util-cursor
