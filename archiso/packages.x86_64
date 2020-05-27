@@ -791,3 +791,4 @@ xfce4-taskmanager
 qtile
 python-psutil
 xcb-util-cursor
+autorandr
