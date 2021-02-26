@@ -452,7 +452,7 @@ pamac-all
 #pulseaudio-equalizer-ladspa
 #pyakm
 python-pyparted
-#python-pywal
+python-pywal
 #scour
 #screenkey-git
 #sublime-text-dev
