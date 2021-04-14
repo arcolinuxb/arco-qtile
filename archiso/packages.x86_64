@@ -614,7 +614,7 @@ arcolinux-config-all-desktops-git
 #arcolinux-config-mate-git
 #arcolinux-config-plasma-git
 #arcolinux-config-plasma-nemesis-git
-arcolinux-config-qtile-git
+#arcolinux-config-qtile-git
 #arcolinux-config-spectrwm-git
 #arcolinux-config-ukui-git
 #arcolinux-config-xfce-git
