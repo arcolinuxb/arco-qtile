@@ -29,7 +29,7 @@ echo
 	desktop="qtile"
 	dmDesktop="qtile"
 
-	arcolinuxVersion='v23.12.02'
+	arcolinuxVersion='v23.12.03'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
